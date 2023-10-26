@@ -1,0 +1,11 @@
+)git init- Inicializa una carpeta como un repositorio localmente
+) git add NombreArchivo git add .
+) git commit -m "Mensaje para el commit"
+)git remote add origin url-del-github- pegar de GitHub
+)git push -u origin master 
+
+para actualizar:
+        1.- git add.
+        2.-git commit -m "mensaje"
+        3.-git push -u origin master
+sss
